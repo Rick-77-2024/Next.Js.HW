@@ -1,3 +1,24 @@
+√ Which linter would you like to use? » ESLint
+√ Would you like to use Tailwind CSS? ... |No| / Yes
+√ Would you like your code inside a `src/` directory? ... No / |Yes|
+√ Would you like to use App Router? (recommended) ... No / |Yes|
+√ Would you like to use Turbopack? (recommended) ... |No| / Yes
+? Would you like to customize the import alias (`@/*` by default)? » |No| / Yes
+---------------------------------------------------
+
+FE. NextJS. ДЗ 3
+---------------------------------------------------
+1.Опрацювати інформацію з лекції.
+Створити для себе картинки/діаграму/текстовий файл принципів роботи підходів рендерінгу, в яких зазначити на яких етапах відбувається рендерінг, генерація сторінок, обробка клієнтом
+
+2 Додати до попереднього завдання валідацію форми через joi, використовуючи useForm hook.
+===================================================
+
+Dependencies
+---------------------------------------------------
+npm install react-hook-form
+npm install @hookform/resolvers joi
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
